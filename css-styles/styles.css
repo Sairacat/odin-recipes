@@ -1,7 +1,29 @@
-
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
 
 h1 {
     color: white;
     background-color: yellowgreen;
+    text-align: center;
+}
+
+ul {
+    background-color: antiquewhite;
+    border: 3px solid rgb(181, 208, 208);
+    padding: 10px;
+    list-style: none;
+}
+
+li {
+    text-align: center;
+    background-color: gainsboro;
+    width: 350px;
+    margin: 10px auto;
+    border: 5px solid azure
+}
+
+h2 {
     text-align: center;
 }
